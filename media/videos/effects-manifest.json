@@ -1,0 +1,31 @@
+{
+  "status_note": "Prompts prepared; not yet generated. Set model and submit once Higgsfield access is available.",
+  "defaults": {
+    "model": "unset",
+    "duration_seconds": 5,
+    "aspect_ratio": "9:16",
+    "image_reference": null
+  },
+  "effects": [
+    {"id": "01", "slug": "orbit", "name": "Orbit", "prompt": "A man sits at a desk in a bright home office, the camera makes one smooth 180 degree orbit around him at chest height, soft key light, shallow depth of field.", "status": "pending", "output": null},
+    {"id": "02", "slug": "chat-takeover", "name": "Chat Takeover", "prompt": "A man talks to camera, then a chat-message bubble panel slides up and covers the frame, the camera holds steady, clean modern lighting.", "status": "pending", "output": null},
+    {"id": "03", "slug": "frame-escape", "name": "Frame Escape", "prompt": "A man pushes outward against the edge of the frame and breaks out of it, the camera pulls back slightly, crisp studio lighting.", "status": "pending", "output": null},
+    {"id": "04", "slug": "snap-zoom", "name": "Snap Zoom", "prompt": "A man talks to camera, then a fast snap zoom punches into his face on a beat, static camera otherwise, warm lighting.", "status": "pending", "output": null},
+    {"id": "05", "slug": "checklist-pop", "name": "Checklist Pop", "prompt": "A man gestures and a checklist card pops onto the frame with items ticking off one by one, static camera, bright even lighting.", "status": "pending", "output": null},
+    {"id": "06", "slug": "headline-storm", "name": "Headline Storm", "prompt": "Large bold headline words fly in from different directions and stack around a man talking to camera, static wide shot, high-contrast lighting.", "status": "pending", "output": null},
+    {"id": "07", "slug": "zoom-portal", "name": "Zoom Portal", "prompt": "A man stands in front of a circular portal that zooms the camera through into a new scene, smooth push-in, cinematic lighting.", "status": "pending", "output": null},
+    {"id": "08", "slug": "growth-curve", "name": "Growth Curve", "prompt": "A man points to a rising line chart that draws itself across the frame behind him, static camera, clean office lighting.", "status": "pending", "output": null},
+    {"id": "09", "slug": "studio-reveal", "name": "Studio Reveal", "prompt": "The shot starts on a dark studio, lights flicker on and the camera pulls back to reveal a man at a desk, slow dolly out, dramatic key light.", "status": "pending", "output": null},
+    {"id": "10", "slug": "b-roll-overlay", "name": "B-roll Overlay", "prompt": "A man talks to camera while a small b-roll clip of a laptop screen overlays the lower corner of the frame, static camera, natural light.", "status": "pending", "output": null},
+    {"id": "11", "slug": "paper-cutout", "name": "Paper Cutout", "prompt": "A man is rendered as a layered paper cutout that slides apart in parallax as the camera moves, flat colors, soft shadows.", "status": "pending", "output": null},
+    {"id": "12", "slug": "dolly-zoom", "name": "Dolly Zoom", "prompt": "The camera dollies back while zooming in on a man's face, creating a vertigo-style background stretch, dramatic lighting.", "status": "pending", "output": null},
+    {"id": "13", "slug": "magazine-cover", "name": "Magazine Cover", "prompt": "A man is framed like a magazine cover with a bold masthead above him, static camera, glossy editorial lighting.", "status": "pending", "output": null},
+    {"id": "14", "slug": "liquid-glass", "name": "Liquid Glass", "prompt": "A man is seen through a rippling liquid glass panel that warps and refracts as the camera drifts slowly, soft highlights.", "status": "pending", "output": null},
+    {"id": "15", "slug": "zoom-through-cut", "name": "Zoom Through Cut", "prompt": "The camera zooms through a man's glasses into a second scene, a seamless match cut, shallow depth of field.", "status": "pending", "output": null},
+    {"id": "16", "slug": "green-screen", "name": "Green Screen", "prompt": "A man stands in front of a green screen that is replaced by a city skyline backdrop, static camera, even flat lighting.", "status": "pending", "output": null},
+    {"id": "17", "slug": "frame-break", "name": "Frame Break", "prompt": "A man's head breaks through the top edge of the frame and out of the border, the camera holds steady, bright studio lighting.", "status": "pending", "output": null},
+    {"id": "18", "slug": "digital-zoom", "name": "Digital Zoom", "prompt": "A man talks to camera and the frame digitally zooms into a cropped sub-frame with a HUD-style overlay, clean tech aesthetic.", "status": "pending", "output": null},
+    {"id": "19", "slug": "phone-mockup", "name": "Phone Mockup", "prompt": "A man holds up a phone whose screen lifts out into a floating 3D phone mockup in the frame, static camera, soft studio lighting.", "status": "pending", "output": null},
+    {"id": "20", "slug": "checklist", "name": "Checklist", "prompt": "A man talks to camera while a full checklist slides in from the side with each item checking off in turn, static camera, bright lighting.", "status": "pending", "output": null}
+  ]
+}

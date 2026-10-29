@@ -1,0 +1,10 @@
+# Generated video output (keep prompts/sidecar JSON tracked, not the binaries)
+media/videos/*.mp4
+media/videos/*.mov
+media/videos/*.webm
+media/videos/*.mkv
+
+# Local tooling
+.env
+.env.*
+node_modules/

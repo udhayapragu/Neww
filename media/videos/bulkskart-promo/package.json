@@ -1,0 +1,21 @@
+{
+  "name": "bulkskart-promo",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "render": "remotion render src/index.ts Bulkskart out/bulkskart-promo.mp4 --browser-executable=/opt/pw-browsers/chromium"
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/cli": "^4.0.539",
+    "@types/react": "^18.3.31",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.539",
+    "typescript": "^5.9.3"
+  }
+}
